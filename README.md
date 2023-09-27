@@ -1,2 +1,4 @@
 # instagram-web-login
-the instagram project ,which took about 96 hours, was a good project and i faced new challenges 
+- instagram login page
+- and it was good as a second prastice project
+### Good luck </>
